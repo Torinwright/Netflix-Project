@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[127]:
-
+#project about seeing if movie lengths have changed overtime in the last 10 years
 
 import pandas as pd
 import numpy as np
